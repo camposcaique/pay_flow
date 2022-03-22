@@ -1,13 +1,3 @@
-   
-   - [Sobre 📖](#sobre-)
-   - [Layout 🎨](#layout-)
-   - [Arquivos no Notion 📋](#arquivo-no-notion-)
-   - [Como Usar 🤔](#como-usar-)
-
-   </p>
-
----
-
 <h2 align="center">Sobre 📖</h2>
    
 <p>
